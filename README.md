@@ -16,7 +16,7 @@
 
 ----
 
-If you have any questions or would like to connect, please reach out to me on LinkedIn. I am happy to provide further details or answer any inquiries. 
+If you have any questions or would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/saul-farias/">LinkedIn<a>. I am happy to provide further details or answer any inquiries. 
 
 Thank you,
 
