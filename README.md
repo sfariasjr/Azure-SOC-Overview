@@ -4,7 +4,7 @@
 
 <h1>Cybersecurity Analyst Projects</h1>
 
-<b> I have undertaken a project where I configured a cloud-based Security Operations Center (SOC) environment within Azure. This demonstration involved setting up Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory, Logging and Monitoring, Microsoft Sentinel SIEM, and Secure Cloud Configuration.<b/>
+<b> Undertook a project to configure a cloud-based Security Operations Center (SOC) environment within Azure. This demonstration involved setting up Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory, Logging and Monitoring, Microsoft Sentinel SIEM, and Secure Cloud Configuration.<b/>
 
 ---
 
